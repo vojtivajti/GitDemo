@@ -7,5 +7,6 @@
 
 import Foundation
 
+print("Hello world")
 print("Text for init commit")
 
